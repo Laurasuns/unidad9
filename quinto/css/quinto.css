@@ -1,0 +1,36 @@
+.texto{
+    margin-left: 25%;
+}
+#primera{
+
+    color:green;
+    text-decoration: underline;
+}
+#segunda{
+    color:red;
+    font-weight: bold;
+}
+
+#tercera{
+    text-decoration: underline overline;
+
+}
+
+#cuarta{
+
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#quinta{
+
+    color:blue;
+    font-weight: bold;
+}
+#sexto{
+
+    font-weight: bold;
+    color: red;
+    text-decoration:underline ;
+}
+
